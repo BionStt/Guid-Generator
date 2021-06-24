@@ -9,4 +9,9 @@
     </div>
     <hr />
 
+    <button class="btn btn-primary" @onclick="NewGuid">New GUID</button>
+    
+    <input type="text" class="form-control" placeholder="GUID" spellcheck="false" @bind="Result" />
+
+    <button class="btn btn-success" @onclick="CopyResult">Copy</button>
 </div>
