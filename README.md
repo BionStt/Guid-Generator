@@ -1,4 +1,3 @@
-# GUID Generator Universal
-GUID Generator App for Windows 10
+# GUID Generator Blazor
 
-Download: https://www.microsoft.com/store/productId/9NBLGGH5SVZC
+GUID Generator
